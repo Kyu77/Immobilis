@@ -1,6 +1,6 @@
 <nav class="navbar bg-body-tertiary">
     <div class="container-fluid">
-        <a class="navbar-brand" href="index.php">Immobilis</a>
+        <a class="navbar-brand" href="index.php"> Immobilis🏡</a>
         <ul class="nav justify-content-center">
   <li class="nav-item">
     <a class="nav-link active" aria-current="page" href="index.php">Menu Principal</a>
